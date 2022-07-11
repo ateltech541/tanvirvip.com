@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='174.138.184.18';
-db_user='ponyvipn_panel';
+db_host='66.45.248.110';
+db_user='tanvirvi_tanvir';
 db_pass='@@Atel123@@';
-db_name='ponyvipn_panel';
+db_name='tanvirvi_tanvir';
 
 install_require()
 {
